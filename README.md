@@ -1,6 +1,7 @@
 # COCOA - COVID-19 Contact-Confirming Application (English)/([Japanese](README.ja.md))
 
 [![App develop](https://github.com/cocoa-mhlw/cocoa/actions/workflows/CI.yml/badge.svg?branch=develop)](https://github.com/cocoa-mhlw/cocoa/actions/workflows/CI.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMurayu0225%2Fcocoa.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMurayu0225%2Fcocoa?ref=badge_shield)
 
 [![Server develop](https://github.com/cocoa-mhlw/cocoa/actions/workflows/CIserver.yml/badge.svg?branch=develop)](https://github.com/cocoa-mhlw/cocoa/actions/workflows/CIserver.yml)
 
@@ -25,6 +26,9 @@ If you have any non-technical requests, please contact us from email address in 
 ## License
 
 COCOA is licensed under the Mozilla Public License Version 2.0. See [LICENSE](LICENSE.md) for the full license text.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMurayu0225%2Fcocoa.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMurayu0225%2Fcocoa?ref=badge_large)
 
 ## About Third Party Software.
 
